@@ -1,4 +1,7 @@
 ## Hi there 👋
+# I am Ashanti
+I have a love of learning languages.
+I am currently learning lingala, french, and spanish.
 
 <!--
 **ALem1940/ALem1940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
